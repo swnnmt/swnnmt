@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/swnnmt">
-  <img src="https://img.shields.io/github/" />
+   <img src="https://img.shields.io/github/followers/swnnt?label=Follow&style=social" />
   </a>
 </p>
 
