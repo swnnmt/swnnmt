@@ -10,7 +10,7 @@
 - 🧠 Passionate about **AI, Machine Learning, and Computer Vision**
 - 🌱 Currently exploring **Cloud Computing & DevOps**
 - 🎨 Love building **beautiful and functional UIs**
-- ☕ Powered by **coffee and curiosity**
+- ☕ Powered by **Red Bull, coffee and curiosity**
 
 ---
 
